@@ -6,8 +6,9 @@
 
 1. [Projeto](#-projeto)
 2. [Fases](#-fases)
-3. [Resultado](#%EF%B8%8F-resultado)
-4. [Sobre a Desenvolvedora](#-sobre-a-desenvolvedora)
+3. [Tecnologias Utilizadas](#robot-tecnologias-utilizadas)
+4. [Resultado](#%EF%B8%8F-resultado)
+5. [Sobre a Desenvolvedora](#-sobre-a-desenvolvedora)
 
 ## 📚 Projeto
 Consiste em criar uma **"lista de tarefas"** para organizar e priorizar tarefas.
@@ -16,6 +17,8 @@ Tem como objetivo exercitar os conhecimento adquiridos em HTML, CSS, Javascript 
 - Não é permitido o uso de Jquery ou nenhuma outra biblioteca/framework.
 
 Para acessar o site construído, clique [**aqui**](https://todolist-reprograma.netlify.app/).
+
+---
 
 ## 🎯 Fases
 
@@ -38,11 +41,26 @@ Para acessar o site construído, clique [**aqui**](https://todolist-reprograma.n
 - **Desafio extra**
     - Quando o input está vazio ou com espaços, mostre uma mensagem de erro abaixo do input ao invés de um alert
 
+---
+
+## :robot: Tecnologias Utilizadas
+
+| Ferramenta | Descrição |
+| --- | --- |
+| `HTML 5` | Linguagem de marcação |
+| `CSS3` | Linguagem de estilização |
+| `JavaScript` |  Linguagem de programação interpretada estruturada|
+| `Git e GitHub` | Sistemas de controle de versões distribuídos|
+
+---
+
 ## ✔️ Resultado
 <div style="display: flex" align="center">
   <img align="center" alt="gif-result1" src="./patricia-barnabe/img/result1.png"><br><br>
   <img align="center" alt="gif-result2" src="./patricia-barnabe/img/result2.png"><br><br>
 </div>
+
+---
 
 ## 👩‍💻 Sobre a Desenvolvedora
 ### Patrícia Barnabé
