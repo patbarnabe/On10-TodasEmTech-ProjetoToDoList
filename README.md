@@ -40,7 +40,8 @@ Para acessar o site construído, clique [**aqui**](https://todolist-reprograma.n
 
 ## ✔️ Resultado
 <div style="display: flex" align="center">
-  <img align="center" alt="gif-results" src="./maravilhosa/anneFrank/imagensAnne/gif-annefrank.gif"><br><br>
+  <img align="center" alt="gif-result1" src="./patricia-barnabe/img/result1.png"><br><br>
+  <img align="center" alt="gif-result2" src="./patricia-barnabe/img/result2.png"><br><br>
 </div>
 
 ## 👩‍💻 Sobre a Desenvolvedora
