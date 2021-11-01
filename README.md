@@ -5,7 +5,7 @@
 ## Índice
 
 1. [Projeto](#-projeto)
-2. [Requisitos Obrigatórios](#-fases)
+2. [Fases](#-fases)
 3. [Resultado](#%EF%B8%8F-resultado)
 4. [Sobre a Desenvolvedora](#-sobre-a-desenvolvedora)
 
