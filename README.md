@@ -15,7 +15,7 @@ Tem como objetivo exercitar os conhecimento adquiridos em HTML, CSS, Javascript 
 
 - Não é permitido o uso de Jquery ou nenhuma outra biblioteca/framework.
 
-Para acessar o site construído, clique **[aqui]**(https://todolist-reprograma.netlify.app/).
+Para acessar o site construído, clique [**aqui**](https://todolist-reprograma.netlify.app/).
 
 ## 🎯 Fases
 
